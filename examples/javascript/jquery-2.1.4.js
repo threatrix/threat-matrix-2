@@ -1,3 +1,24 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: http://pbpress.or.kr/
+*    Release: https://github.com/pnbro/pbpress/releases/tag/null
+*    Source File: jquery.js
+*    
+*    Copyrights:
+*      copyright 2005, 2014 jquery foundation, inc. and other contributors
+*      copyright 2008, 2014 jquery foundation, inc. and other contributors
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 /*!
  * jQuery JavaScript Library v2.1.4
  * http://jquery.com/
