@@ -1,3 +1,30 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Release: https://github.com/david-rachwalik/DMR/releases/tag/null
+*    Source File: jquery.js
+*    
+*    Copyrights:
+*      copyright (c) microsoft corporation. all rights reserved
+*      copyright (c) 21/08/2018 13:14, cleiton da silva mendonça
+*      (c),""===d&&(d=!0),d=!!d):d=f.attr(c),this.normalizeattributerule(e,g,c,d);return e.maxlength&&/-1|2147483647|524288/.test(e
+*      copyright (c) 2021 jörn zaefferer
+*      copyright (c) 2021 jörn zaefferer; licensed mit
+*      copyright (c) 2010-2013 diego perini, mit licensed
+*      copyright (c) 2011-2021 the bootstrap authors
+*      copyright 2011-2021 the bootstrap authors (https://github.com/twbs/bootstrap/graphs/contributors)
+*      copyright (c) 2011-2021 twitter, inc
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 /*!
  * jQuery JavaScript Library v3.6.0
  * https://jquery.com/
