@@ -1,6 +1,6 @@
 // spring-projects/spring-boot/blob/v1.3.1.RELEASE/spring-boot/src/main/java/org/springframework/boot/env/EnumerableCompositePropertySource.java
 public class EnumerableCompositePropertySource
-        extends EnumerablePropertySource<Collection<PropertySource<?>>> {
+    extends EnumerablePropertySource<Collection<PropertySource<?>>> {
 
     private volatile String[] names;
 
@@ -25,10 +25,10 @@ public class EnumerableCompositePropertySource
         if (result == null) {
             List<String> names = new ArrayList<String>();
             for (PropertySource<?> source : new ArrayList<PropertySource<?>>(
-                    getSource())) {
+                getSource())) {
                 if (source instanceof EnumerablePropertySource) {
                     names.addAll(Arrays.asList(
-                            ((EnumerablePropertySource<?>) source).getPropertyNames()));
+                        ((EnumerablePropertySource<?>) source).getPropertyNames()));
                 }
             }
             this.names = names.toArray(new String[0]);
@@ -63,3 +63,4 @@ private static URL[] getExtensionURLs() {
     }
     return urls.toArray(new URL[0]);
 }
+

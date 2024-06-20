@@ -129,3 +129,7 @@ void _SysFatalErrorHandler(unsigned int reason, const NANO_ESF * pEsf)
 
 	NON_ESSENTIAL_TASK_ABORT();
 }
+
+
+
+
