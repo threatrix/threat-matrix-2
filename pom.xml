@@ -55,6 +55,14 @@
     <artifactId>xstream</artifactId>
     <version>1.4.17</version>
 </dependency>
+
+             <!-- https://mvnrepository.com/artifact/com.bazaarvoice.jolt/jolt-core -->
+<dependency>
+    <groupId>com.bazaarvoice.jolt</groupId>
+    <artifactId>jolt-core</artifactId>
+    <version>0.1.7</version>
+</dependency>
+
         
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
