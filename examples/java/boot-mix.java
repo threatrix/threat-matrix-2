@@ -1,4 +1,4 @@
-// spring-projects/spring-boot/blob/v1.3.1.RELEASE/spring-boot/src/main/java/org/springframework/boot/env/EnumerableCompositePropertySource.java
+
 public class EnumerableCompositePropertySource
     extends EnumerablePropertySource<Collection<PropertySource<?>>> {
 
@@ -44,7 +44,7 @@ public class EnumerableCompositePropertySource
 
 }
 
-// spring-projects/spring-boot/blob/v2.6.1/spring-boot-project/spring-boot-cli/src/main/java/org/springframework/boot/cli/SpringCli.java
+
 private static URL[] getExtensionURLs() {
     List<URL> urls = new ArrayList<>();
     String home = SystemPropertyUtils.resolvePlaceholders("${spring.home:${SPRING_HOME:.}}");
